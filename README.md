@@ -39,7 +39,7 @@ Calendar Application that allows the user to save events for each hour of the da
   <br />
 
 ## Video Tutorial
-[Click here to view video](https://drive.google.com/file/d/1YPfv_8ruZg-qjQbjfShbB7tjIZUCyvp8/view)
+[Click here to view video](https://drive.google.com/file/d/1D7n9DtnhOkqaDpAPY1HyRH4bUgZHzaUu/view)
 
 ## Check it out
 [Click here to visit my Day Planner](https://northjw.github.io/WorkDay-Planner/)
