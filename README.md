@@ -1,5 +1,5 @@
 # WorkDay-Planner
-<h1>Read Me Generator </h1>
+
 
    ## Project Name ##
    Work-Day Planner
